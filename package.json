@@ -1,0 +1,25 @@
+{
+  "name": "hyper-oceanic-next",
+  "version": "0.0.2",
+  "description": "Oceanic Next theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbentley/hyper-oceanic-next.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "oceanic-next"
+  ],
+  "author": "Robin Bentley <robinbentley@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinbentley/hyper-oceanic-next/issues"
+  },
+  "homepage": "https://github.com/robinbentley/hyper-oceanic-next#readme"
+}
